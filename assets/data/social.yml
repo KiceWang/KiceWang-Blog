@@ -1,7 +1,7 @@
 # 001: Github
 github:
   Weight: 1
-  Prefix: https://github.com/
+  Prefix: https://github.com/KiceWang
   Title: GitHub
   Icon:
     Class: fab fa-github fa-fw
